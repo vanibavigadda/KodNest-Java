@@ -1,5 +1,6 @@
 public class WelcomeToJava {
     public static void main(String[] args) {
-       //Write your code here
+        System.out.println("I LOVE INDIA");
+        System.out.println("I already know how to build programming language");
     }
 }
